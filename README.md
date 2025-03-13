@@ -50,3 +50,6 @@ __nombreDelAtributo(self):
 
 para acceder a un atributo protegido:
 objeto._clase__atributoprivado
+
+para acceder a un método privado:
+objeto._clase__atributoprivado()
