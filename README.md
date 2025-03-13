@@ -40,3 +40,13 @@ dydx = Derivad2 (myfunc)
 
 print(f'la derivada de 4x**2+3x+5 en x=0.5, es  {dydx(.5)}')
 resultado: la derivada de 4x**2+3x+5 en x=0.5, es  7.00000400044587
+
+
+
+
+
+para proteger un atriburo 
+__nombreDelAtributo(self):
+
+para acceder a un atributo protegido:
+objeto._clase__atributoprivado
