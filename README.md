@@ -9,7 +9,7 @@ https://gitlab.com/sroldanvasco/intro-programacion-cientifica
 Para calcular f(x) 
               f'(x)
 
-$\frac{df(x)}{dx}= lim_{\Delta x /rightarrow 0}\frac{f(x+\Delta x) - f(x)}{\Delta x}$
+$\frac{df(x)}{dx}= lim_{\Delta x \rightarrow 0}\frac{f(x+\Delta x) - f(x)}{\Delta x}$
 
 
 f(x) = 4x{
