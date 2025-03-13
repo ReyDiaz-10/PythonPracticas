@@ -1,5 +1,8 @@
 # PythonPracticas
 
+# Cree la clase
+##Cree una clase para derivación numérica de una función cualquiera. use la siguiente definicio:#3
+$\frac{df(x)}{dx}= lim_{\Delta x /rightarrow 0}\frac{f(x+\Delta x) - f(x)}{\Delta x}$
 Líneas de código para el proyecto de programación científica 
 https://gitlab.com/sroldanvasco/intro-programacion-cientifica
 
